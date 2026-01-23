@@ -7,5 +7,10 @@
 // });
 
 
-const result = [1, 2, 3].forEach(num => num * 2);
-console.log(result); // undefined
+
+// const result = [1, 2, 3].forEach(num => num * 2);
+
+// console.log(result); 
+
+const num = [1, 2,3].forEach(num => num+5);
+console.log(num);
