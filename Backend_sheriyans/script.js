@@ -18,10 +18,19 @@
 
 // Map in the javascript 
 
-let arr = [1, 2, 3, 4];
+// let arr = [1, 2, 3, 4];
 
-let newArr = arr.map((val)=>{
-    return val + 2;
-})
+// let newArr = arr.map((val)=>{
+//     return val + 2;
+// })
 
-console.log(newArr);
+// console.log(newArr);
+
+
+// objects in the javascript 
+
+
+var obj = {
+    name : "Om Pandey",
+    age : 122
+}
